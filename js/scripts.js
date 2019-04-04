@@ -47,7 +47,7 @@ function showTooltip(e) {
     y: e.target.offsetTop,
   };
 
-  console.log(options);
+  //console.log(options);
 
   var text = e.target.getAttribute("title");
 
